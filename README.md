@@ -10,12 +10,8 @@ This project focuses on clean design, layout structuring, and frontend UI practi
 ### 💻 Final Design
 ![Final Design](Result/final_Image.png)
 
-
----
-
-## 👤 Profile Image
-
-![Profile Image](Asset/dp.png)
+### 🧩 Code Snapshot
+![Code Snapshot](Result/code.png)
 
 ---
 
